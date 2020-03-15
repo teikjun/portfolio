@@ -1,8 +1,8 @@
 module.exports = {
   defaultTitle: 'Teik Jun',
-  logo: 'https://portfolio.teikjun.com/favicon/favicon-512.png',
+  logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Teik Jun',
-  url: 'https://portfolio.teikjun.com',
+  url: 'http://teikjun.netlify.com,
   legalName: 'Teik Jun',
   defaultDescription: 'I’m Teik Jun and I’m an aspiring Full Stack Developer!',
   socialLinks: {

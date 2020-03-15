@@ -14,7 +14,7 @@ export const Skills = () => (
         <h1>My Toolbox</h1>
         <p>
         <div>HTML, CSS, JavaScript, TypeScript, Java, Python</div>
-        <div>Node.js, React.js, MongoDB, PostgreSQL</div>
+        <div>React.js, Node.js, MongoDB, PostgreSQL</div>
         </p>
         <Button as={AnchorLink} href="#contact">
           Contact me
