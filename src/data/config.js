@@ -31,5 +31,5 @@ module.exports = {
     phone: '91576316',
   },
   foundingDate: '2018',
-  recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
+  recaptcha_key: '6LehdOEUAAAAAMldYt6DuLH8qipw_qTLj62F-sK8',
 };
