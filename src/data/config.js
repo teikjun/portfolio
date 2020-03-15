@@ -2,7 +2,7 @@ module.exports = {
   defaultTitle: 'Teik Jun',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Teik Jun',
-  url: 'http://teikjun.netlify.com',
+  url: 'https://teikjun.netlify.com/',
   legalName: 'Teik Jun',
   defaultDescription: 'I’m Teik Jun and I’m an aspiring Full Stack Developer!',
   socialLinks: {
