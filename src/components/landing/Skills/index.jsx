@@ -8,16 +8,16 @@ export const Skills = () => (
   <Wrapper id="about">
     <SkillsWrapper as={Container}>
       <Thumbnail>
-        <img src={dev} alt="I’m John and I’m a Backend & Devops engineer!" />
+        <img src={dev} alt="I’m Teik Jun and I’m an aspiring Full Stack Developer" />
       </Thumbnail>
       <Details>
-        <h1>Hi There!</h1>
+        <h1>My Toolbox</h1>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry’s standard dummy.
+        <div>HTML, CSS, JavaScript, TypeScript, Java, Python</div>
+        <div>Node.js, React.js, MongoDB, PostgreSQL</div>
         </p>
         <Button as={AnchorLink} href="#contact">
-          Hire me
+          Contact me
         </Button>
       </Details>
     </SkillsWrapper>
