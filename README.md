@@ -7,4 +7,5 @@ http://teikjun.netlify.com
 
 # Thanks to:
 Gatsby and Smakosh
+
 Undraw.co for pictures
