@@ -13,14 +13,16 @@ export const Button = styled.button`
   -ms-user-select: none;
   user-select: none;
   color: #fff;
-  background: #0074d9;
+  background: #398ad7;
+  box-shadow: 0 1px 0 0 #0054a3;
 
-  &:focus {
-    outline: none;
+  &:hover {
+    background: #0095ff;
   }
 
   &:disabled {
     background: gray;
+    box-shadow: 0 1px 0 0 #000000;
   }
 
   ${({ secondary }) =>

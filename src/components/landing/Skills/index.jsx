@@ -11,14 +11,17 @@ export const Skills = () => (
         <img src={dev} alt="I’m Teik Jun and I’m an aspiring Full Stack Developer" />
       </Thumbnail>
       <Details>
-        <h1>My Toolbox</h1>
+        <h1>About Me</h1>
+        <p>
+        <div>Hungry to learn and improve</div>
+        <div>Passionate about building awesome products </div>
+        <div>Searching for interesting challenges</div>
+        </p>
+        <h2>Frequently Used Technologies</h2> 
         <p>
         <div>HTML, CSS, JavaScript, TypeScript, Java, Python</div>
-        <div>React.js, Node.js, MongoDB, PostgreSQL</div>
+        <div>React, Node, Webpack, MongoDB, PostgreSQL</div>
         </p>
-        <Button as={AnchorLink} href="#contact">
-          Contact me
-        </Button>
       </Details>
     </SkillsWrapper>
   </Wrapper>
