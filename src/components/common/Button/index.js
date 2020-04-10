@@ -13,11 +13,11 @@ export const Button = styled.button`
   -ms-user-select: none;
   user-select: none;
   color: #fff;
-  background: #398ad7;
+  background: #796eff;
   box-shadow: 0 1px 0 0 #0054a3;
 
   &:hover {
-    background: #0095ff;
+    background: #635ac7;
   }
 
   &:disabled {
