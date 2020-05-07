@@ -119,7 +119,9 @@ export default withFormik({
 			}
 			await fetch('/?no-cache=1', {
 				method: 'POST',
-				headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+				headers: { 
+					'Access-Control-Allow-Origin': '*',
+					'Content-Type': 'application/x-www-form-urlencoded' },
 				body: encode({
 					'form-name': 'portfolio-dev',
 					name,

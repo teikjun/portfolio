@@ -15,7 +15,7 @@ export const Footer = () => (
 					</span>{' '}
 					by{' '}
 					<a
-						href="http://teikjun.netlify.com"
+						href="https://teikjun.netlify.com"
 						rel="noopener noreferrer"
 						target="_blank"
 					>

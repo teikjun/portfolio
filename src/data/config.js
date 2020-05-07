@@ -6,7 +6,7 @@ module.exports = {
   legalName: 'Teik Jun',
   defaultDescription: 'I’m Teik Jun and I’m an aspiring Full Stack Developer!',
   socialLinks: {
-    twitter: 'http://www.twitter.com/none',
+    twitter: 'https://twitter.com/teik_jun',
     github: 'https://github.com/teikjun',
     linkedin: 'https://www.linkedin.com/in/tan-teik-jun-0976b1152/',
     instagram: 'https://instagram.com/none',
