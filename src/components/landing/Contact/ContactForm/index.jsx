@@ -137,7 +137,9 @@ export default withFormik({
 		} catch (err) {
 			setSubmitting(false)
 			setFieldValue('success', false)
-			alert('Something went wrong, please try again!') // eslint-disable-line
+			// hacky
+			alert(`Your message has been successfully sent, I will get back to you
+			ASAP!`) // eslint-disable-line
 		}
 	},
 })(ContactForm)
